@@ -1,17 +1,21 @@
-# PremierZone
+# PremierZone – Premier League Fantasy Web App
 
-PremierZone is a comprehensive project designed to scrape match statistics for over 700 players, manipulate and present the data dynamically, and predict match outcomes using machine learning. The project is divided into four main components: Backend, Frontend, Data Scraping, and Machine Learning.
+**PremierZone** is a comprehensive full-stack project designed to scrape match statistics for over 700 players, dynamically present the data, and predict match outcomes using machine learning. The app is organized into four modules: Backend, Frontend, Data Scraping, and ML Prediction.
 
-<img width="1407" alt="Screenshot" src="./website-image.png">
+> ⚠️ This is a prototype for academic submission. A fully original, customized version will be released soon.
 
-Note: This Project is currently an ongoing one, will publish the final version once its done...
+<img width="100%" alt="Screenshot" src="./website-image.png">
 
-## Features
+## 🔧 Features
 
-- **Data Scraping**: Engineered a comprehensive data scraping of match statistics for 700+ players using Python and pandas.
-- **Backend**: Dynamic manipulation and presentation of the scraped data through a Spring Boot application.
-- **Database**: Real-time data manipulation within a Postgres database using SQL queries.
-- **Frontend**: Seamless integration with a user-friendly ReactJS interface.
-- **Machine Learning**: Created a model to predict match outcomes by integrating data scraping with pandas and machine learning with scikit-learn.
+- **Data Scraping**: Collected match data for 700+ players using Python and `pandas`.
+- **Backend**: Built with Spring Boot to serve dynamic REST APIs.
+- **Database**: Managed with PostgreSQL and raw SQL queries.
+- **Frontend**: Developed using React.js for a responsive UI.
+- **Machine Learning**: Integrated predictive model using `scikit-learn`.
+
+## 🚧 Status
+
+🛠 In development. Final custom version launching soon.
 
 
