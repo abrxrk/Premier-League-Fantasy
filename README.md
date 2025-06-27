@@ -2,7 +2,7 @@
 
 PremierZone is a comprehensive project designed to scrape match statistics for over 700 players, manipulate and present the data dynamically, and predict match outcomes using machine learning. The project is divided into four main components: Backend, Frontend, Data Scraping, and Machine Learning.
 
-<img width="1407" alt="Screenshot" src="website.png">
+<img width="1407" alt="Screenshot" src="./website-image.png">
 
 Note: This Project is currently an ongoing one, will publish the final version once its done...
 
